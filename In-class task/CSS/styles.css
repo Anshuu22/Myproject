@@ -1,0 +1,17 @@
+/* Name: Ankush Ahir, Student Number: 8938881 */ 
+
+body {
+    font: italic small-caps bold 24px Helvetica;
+    background-color: hsla(32, 30%, 83%, 0.932);
+}
+h1{
+    height: 20vh;
+    width: 90vw;
+}
+h2{
+    color: rgb(24, 142, 38);
+    font-size: 4rem;
+}
+li{
+    height: 8rlh;
+}
